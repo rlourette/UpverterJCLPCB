@@ -1,5 +1,5 @@
 # UpverterJCLPCB
-Contains scripts to convert files exported from Upverter for building PCBs at JCLPCB
+Contains scripts to convert files exported from Upverter for building PCBs at JLCPCB
 
 This python script (main.py) will massage the output so you can have the boards assembled inexpensively at JCLPCB.
 The script will modify the BOM and XYRS exports from Upverter to modify them for compatibility with the JCLPCB assembly processes mapping your MPNs to LCSC part numbers. You may have to tweak a part orientation.
