@@ -1,4 +1,4 @@
-# UpverterJCLPCB
+# UpverterJLCPCB
 Contains scripts to convert files exported from Upverter for building PCBs at JLCPCB
 
 This python script (main.py) will massage the output so you can have the boards assembled inexpensively at JCLPCB.
