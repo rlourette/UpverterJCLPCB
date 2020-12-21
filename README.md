@@ -10,7 +10,7 @@ Usage:
 The files are all CSV files.
 You add your part mappings to LCSC PNs with this dictionary:
   
-```
+```python
 # populate this dictionary with MPN:LCSC_PNs pairs.
 # If a component is not found in this dictionary, a null
 # string is returned (due to the dictionary being a defaultdict).
